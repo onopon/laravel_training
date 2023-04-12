@@ -21,3 +21,9 @@ docker compose run app composer create-project laravel/laravel
 http://localhost:8000/
 
 （Laravelプロジェクトを作成前はNot Foundが表示されます）
+
+## dbへの接続
+
+```
+./mysql
+```
