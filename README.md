@@ -15,3 +15,9 @@ docker compose up -d
 ```
 docker compose run app composer create-project laravel/laravel
 ```
+
+## localページの表示url
+
+http://localhost:8000/
+
+（Laravelプロジェクトを作成前はNot Foundが表示されます）
