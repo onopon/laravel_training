@@ -1,0 +1,1 @@
+docker compose exec db bash -c "mysql -ult_user -plt_user -D laravel_training"

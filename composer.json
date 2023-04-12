@@ -1,0 +1,6 @@
+{
+    "name": "root/html",
+    "require": {
+        "laravel/laravel": "^10.0"
+    }
+}
